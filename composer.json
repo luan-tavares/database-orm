@@ -1,0 +1,17 @@
+{
+    "name": "luan/orm",
+    "description": "ORM Simples e facil",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Luan Tavares",
+            "email": "luan.tavares.lourenco@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Luan\\ORM\\": "src/"
+        }
+    },
+    "require": {}
+}
