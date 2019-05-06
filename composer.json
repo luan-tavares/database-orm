@@ -1,5 +1,5 @@
 {
-    "name": "luan/orm",
+    "name": "luan-tavares/database-orm",
     "description": "ORM Simples e facil",
     "type": "library",
     "authors": [
